@@ -26,7 +26,7 @@ $ heroku open
 ```
 or
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/cauldron-dev/push-to-heroku-test/testing)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/cauldron-dev/push-to-heroku-test/tree/testing)
 
 ## Documentation
 
